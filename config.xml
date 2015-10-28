@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="nz.co.conglomo.confessions" versionCode="1" version="1.0.0">
+<widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="nz.co.conglomo.confessions" versionCode="1" version="1.0.0">
 	<name>Creeds and Confessions</name>
 	<description>Creeds and Confessions of the Christian Church.</description>
 	<author href="http://www.conglomo.co.nz/" email="support@conmglomo.co.nz">Peter Chapman</author>
@@ -22,12 +22,12 @@
 	<icon src="assets/icons/xxxhdpi.png" gap:platform="android" gap:qualifier="xxxhdpi" />
 	<icon src="icon.png" gap:platform="winphone" />
 	<icon src="assets/icons/tileicon.png" gap:platform="winphone" gap:role="background" />
-	<gap:plugin name="org.apache.cordova.splashscreen" version="0.3.4" />
-	<gap:splash src="splash.png" />
+	<gap:plugin name="org.apache.cordova.splashscreen" />
 	<gap:splash src="assets/splash/splash-mdpi.png" gap:platform="android" gap:qualifier="mdpi" />
 	<gap:splash src="assets/splash/splash-hdpi.png" gap:platform="android" gap:qualifier="hdpi" />
 	<gap:splash src="assets/splash/splash-xhdpi.png" gap:platform="android" gap:qualifier="xhdpi" />
 	<gap:splash src="assets/splash/splash-xxhdpi.png" gap:platform="android" gap:qualifier="xxhdpi" />
 	<gap:splash src="assets/splash/splash-xxxhdpi.png" gap:platform="android" gap:qualifier="xxxhdpi" />
 	<gap:splash src="assets/splash/splash.jpg" gap:platform="winphone" />
+	<gap:splash src="splash.png" />
 </widget>
