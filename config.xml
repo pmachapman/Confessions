@@ -22,6 +22,7 @@
 	<icon src="assets/icons/xxxhdpi.png" gap:platform="android" gap:qualifier="xxxhdpi" />
 	<icon src="icon.png" gap:platform="winphone" />
 	<icon src="assets/icons/tileicon.png" gap:platform="winphone" gap:role="background" />
+	<gap:plugin name="cordova-plugin-splashscreen" version="2.1.1" source="npm" />
 	<gap:splash src="splash.png" />
 	<gap:splash src="assets/splash/splash-mdpi.png" gap:platform="android" gap:qualifier="mdpi" />
 	<gap:splash src="assets/splash/splash-hdpi.png" gap:platform="android" gap:qualifier="hdpi" />
