@@ -10,6 +10,15 @@
 	<preference name="target-device" value="universal" />
 	<preference name="fullscreen" value="false" />
 	<preference name="android-installLocation" value="auto" />
-	<preference name="android-minSdkVersion" value="14" />
+	<preference name="android-minSdkVersion" value="21" />
 	<preference name="android-targetSdkVersion" value="21" />
+	<icon src="icon.png" />
+	<icon src="assets/icons/ldpi.png" gap:platform="android" gap:qualifier="ldpi" />
+	<icon src="assets/icons/mdpi.png" gap:platform="android" gap:qualifier="mdpi" />
+	<icon src="assets/icons/hdpi.png" gap:platform="android" gap:qualifier="hdpi" />
+	<icon src="assets/icons/xhdpi.png" gap:platform="android" gap:qualifier="xhdpi" />
+	<icon src="assets/icons/xxhdpi.png" gap:platform="android" gap:qualifier="xxhdpi" />
+	<icon src="assets/icons/xxxhdpi.png" gap:platform="android" gap:qualifier="xxxhdpi" />
+	<icon src="icon.png" gap:platform="winphone" />
+	<icon src="assets/icons/tileicon.png" gap:platform="winphone" gap:role="background" />
 </widget>
