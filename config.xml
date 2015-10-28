@@ -12,6 +12,7 @@
 	<preference name="android-installLocation" value="auto" />
 	<preference name="android-minSdkVersion" value="21" />
 	<preference name="android-targetSdkVersion" value="21" />
+	<preference name="SplashScreen" value="screen" />
 	<icon src="icon.png" />
 	<icon src="assets/icons/ldpi.png" gap:platform="android" gap:qualifier="ldpi" />
 	<icon src="assets/icons/mdpi.png" gap:platform="android" gap:qualifier="mdpi" />
