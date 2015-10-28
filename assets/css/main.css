@@ -3051,7 +3051,9 @@
 	padding-left: 1em;
 }
 ol {
-	list-style: outside none decimal !important;
+	list-style-type: decimal !important;
+	list-style-image: none !important;
+	list-style-position: outside !important;
 	margin: 0px 0px 2em !important;
 	padding-left: 1.25em !important;
 }
@@ -3095,5 +3097,8 @@ body.homepage #header {
 		height: 30px !important;
 		left: 50%;
 		margin-left: -40px;
+	}
+	.style1 {
+		padding: 0.5em !important;
 	}
 }
