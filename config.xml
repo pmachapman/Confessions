@@ -12,7 +12,7 @@
 	<preference name="android-installLocation" value="auto" />
 	<preference name="android-minSdkVersion" value="21" />
 	<preference name="android-targetSdkVersion" value="21" />
-	<preference name="SplashScreen" value="splash" />
+	<preference name="SplashScreen" value="screen" />
 	<preference name="SplashScreenDelay" value="3000" />
 	<preference name="SplashMaintainAspectRatio" value="false" />
 	<icon src="icon.png" />
@@ -25,11 +25,11 @@
 	<icon src="icon.png" gap:platform="winphone" />
 	<icon src="assets/icons/tileicon.png" gap:platform="winphone" gap:role="background" />
 	<gap:plugin name="org.apache.cordova.splashscreen" />
-	<gap:splash src="assets/splash/splash-mdpi.png" gap:platform="android" gap:qualifier="mdpi" />
-	<gap:splash src="assets/splash/splash-hdpi.png" gap:platform="android" gap:qualifier="hdpi" />
-	<gap:splash src="assets/splash/splash-xhdpi.png" gap:platform="android" gap:qualifier="xhdpi" />
-	<gap:splash src="assets/splash/splash-xxhdpi.png" gap:platform="android" gap:qualifier="xxhdpi" />
-	<gap:splash src="assets/splash/splash-xxxhdpi.png" gap:platform="android" gap:qualifier="xxxhdpi" />
-	<gap:splash src="assets/splash/splash.jpg" gap:platform="winphone" />
-	<gap:splash src="splash.png" />
+	<gap:splash src="assets/splash/screen-mdpi.png" gap:platform="android" gap:qualifier="mdpi" />
+	<gap:splash src="assets/splash/screen-hdpi.png" gap:platform="android" gap:qualifier="hdpi" />
+	<gap:splash src="assets/splash/screen-xhdpi.png" gap:platform="android" gap:qualifier="xhdpi" />
+	<gap:splash src="assets/splash/screen-xxhdpi.png" gap:platform="android" gap:qualifier="xxhdpi" />
+	<gap:splash src="assets/splash/screen-xxxhdpi.png" gap:platform="android" gap:qualifier="xxxhdpi" />
+	<gap:splash src="assets/splash/screen.jpg" gap:platform="winphone" />
+	<gap:splash src="screen.png" />
 </widget>
