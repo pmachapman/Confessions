@@ -3101,4 +3101,9 @@ body.homepage #header {
 	.style1 {
 		padding: 0.5em !important;
 	}
+
+	strong, b {
+		font-weight: 600;
+		color: #483949;
+	}
 }
