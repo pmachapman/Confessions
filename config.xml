@@ -21,4 +21,11 @@
 	<icon src="assets/icons/xxxhdpi.png" gap:platform="android" gap:qualifier="xxxhdpi" />
 	<icon src="icon.png" gap:platform="winphone" />
 	<icon src="assets/icons/tileicon.png" gap:platform="winphone" gap:role="background" />
+	<gap:splash src="splash.png" />
+	<gap:splash src="assets/splash/drawable-mdpi/splash.9.png" gap:platform="android" gap:density="mdpi" />
+	<gap:splash src="assets/splash/drawable-hdpi/splash.9.png" gap:platform="android" gap:density="hdpi" />
+	<gap:splash src="assets/splash/drawable-xhdpi/splash.9.png" gap:platform="android" gap:density="xhdpi" />
+	<gap:splash src="assets/splash/drawable-xxhdpi/splash.9.png" gap:platform="android" gap:density="xxhdpi" />
+	<gap:splash src="assets/splash/drawable-xxxhdpi/splash.9.png" gap:platform="android" gap:density="xxxhdpi" />
+	<gap:splash src="assets/splash/splash.jpg" gap:platform="winphone" />
 </widget>
