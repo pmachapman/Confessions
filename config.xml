@@ -5,7 +5,7 @@
 	<author href="http://www.conglomo.co.nz/" email="support@conmglomo.co.nz">Peter Chapman</author>
 	<gap:platform name="android" />
 	<gap:platform name="winphone" />
-	<preference name="phonegap-version" value="6.0.0" />
+	<preference name="phonegap-version" value="cli-6.0.0" />
 	<preference name="permissions" value="none" />
 	<preference name="orientation" value="default" />
 	<preference name="target-device" value="universal" />
