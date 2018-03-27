@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="nz.co.conglomo.confessions" versionCode="3" version="1.1">
+<widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="nz.co.conglomo.confessions" versionCode="4" version="1.2">
 	<name>Creeds and Confessions</name>
 	<description>Creeds and Confessions of the Christian Church.</description>
 	<author href="https://www.conglomo.co.nz/" email="support@conglomo.co.nz">Peter Chapman</author>
@@ -13,7 +13,6 @@
 	<preference name="android-installLocation" value="auto" />
 	<preference name="android-minSdkVersion" value="21" />
 	<preference name="android-targetSdkVersion" value="21" />
-	<icon src="icon.png" />
 	<icon src="assets/icons/ldpi.png" gap:platform="android" gap:qualifier="ldpi" />
 	<icon src="assets/icons/mdpi.png" gap:platform="android" gap:qualifier="mdpi" />
 	<icon src="assets/icons/hdpi.png" gap:platform="android" gap:qualifier="hdpi" />
@@ -23,5 +22,4 @@
 	<icon src="icon.png" gap:platform="winphone" />
 	<icon src="assets/icons/tileicon.png" gap:platform="winphone" gap:role="background" />
 	<gap:splash src="screen.jpg" gap:platform="winphone" />
-	<gap:splash src="screen.png" />
 </widget>
