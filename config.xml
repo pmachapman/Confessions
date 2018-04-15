@@ -2,7 +2,7 @@
 <widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="nz.co.conglomo.confessions" versionCode="5" version="1.3">
 	<name>Creeds and Confessions</name>
 	<description>Creeds and Confessions of the Christian Church.</description>
-	<author href="https://www.conglomo.co.nz/" email="support@conglomo.co.nz">Peter Chapman</author>
+	<author href="https://www.conglomo.co.nz/" email="support@conglomo.co.nz">Conglomo</author>
 	<gap:platform name="android" />
 	<gap:platform name="winphone" />
 	<preference name="phonegap-version" value="cli-6.5.0" />
@@ -13,6 +13,7 @@
 	<preference name="android-installLocation" value="auto" />
 	<preference name="android-minSdkVersion" value="21" />
 	<preference name="android-targetSdkVersion" value="21" />
+	<preference name="windows-identity-name" value="42605CONGLOMO.CREEDSANDCONFESSIONS" />
 	<icon src="assets/icons/ldpi.png" gap:platform="android" gap:qualifier="ldpi" />
 	<icon src="assets/icons/mdpi.png" gap:platform="android" gap:qualifier="mdpi" />
 	<icon src="assets/icons/hdpi.png" gap:platform="android" gap:qualifier="hdpi" />
