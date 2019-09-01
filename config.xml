@@ -5,14 +5,14 @@
 	<author href="https://www.conglomo.co.nz/" email="support@conglomo.co.nz">Conglomo</author>
 	<gap:platform name="android" />
 	<gap:platform name="winphone" />
-	<preference name="phonegap-version" value="cli-6.5.0" />
+	<preference name="phonegap-version" value="cli-9.0.0" />
 	<preference name="permissions" value="none" />
 	<preference name="orientation" value="default" />
 	<preference name="target-device" value="universal" />
 	<preference name="fullscreen" value="false" />
 	<preference name="android-installLocation" value="auto" />
 	<preference name="android-minSdkVersion" value="21" />
-	<preference name="android-targetSdkVersion" value="26" />
+	<preference name="android-targetSdkVersion" value="28" />
 	<preference name="windows-identity-name" value="42605CONGLOMO.CREEDSANDCONFESSIONS" />
 	<icon src="assets/icons/ldpi.png" gap:platform="android" gap:qualifier="ldpi" />
 	<icon src="assets/icons/mdpi.png" gap:platform="android" gap:qualifier="mdpi" />
