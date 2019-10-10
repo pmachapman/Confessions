@@ -1,7 +1,7 @@
 # Creeds and Confessions Mobile App
 
 ## Helios by HTML5 UP
-html5up.net | @n33co
+html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
@@ -18,7 +18,7 @@ http://md.photomerchant.net/
 and/or use any of Michaels's work without his explicit permission!)
 
 AJ
-n33.co @n33co dribbble.com/n33
+aj@lkn.io | @ajlkn
 
 
 Credits:
@@ -27,15 +27,9 @@ Credits:
 		Michael Domaradzki (md.photomerchant.net)
 
 	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+		Font Awesome (fontawesome.io)
 
 	Other:
 		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		background-size polyfill (github.com/louisremi)
-		Respond.js (j.mp/respondjs)
-		jquery.dropotron (n33.co)
-		jquery.scrolly (n33.co)
-		jquery.onvisible (n33.co)
-		Skel (skel.io)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
