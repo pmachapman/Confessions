@@ -3,7 +3,7 @@
 xmlns:gap="http://phonegap.com/ns/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
 id="nz.co.conglomo.confessions"
-versionCode="9" version="1.3.4">
+versionCode="10" version="1.3.5">
 	<name>Creeds and Confessions</name>
 	<description>Creeds and Confessions of the Christian Church.</description>
 	<author href="https://www.conglomo.co.nz/" email="support@conglomo.co.nz">Conglomo</author>
