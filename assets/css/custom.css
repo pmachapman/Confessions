@@ -7,3 +7,18 @@
         color: #fff;
     }
 }
+
+.references {
+    font-size: 0.8em;
+    margin: 1em 0;
+    padding-left: 1em;
+}
+
+    .references a, .special p a {
+        border-bottom-color: #ef8376;
+        color: #ef8376;
+    }
+
+    .references a:hover, .special p a:hover {
+        border-bottom-color: transparent;
+    }
