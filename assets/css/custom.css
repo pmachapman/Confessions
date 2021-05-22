@@ -8,6 +8,23 @@
     }
 }
 
+.dark .wrapper {
+    background-color: #5b5b5b;
+    color: #fff;
+}
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6, .dark strong {
+    color: #fff;
+}
+
+body.homepage #header h1 {
+    font-size: 3.5em;
+}
+
+#header .button {
+    height: 5em;
+    width: 5em;
+}
+
 .references {
     font-size: 0.8em;
     margin: 1em 0;
