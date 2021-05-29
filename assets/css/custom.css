@@ -39,3 +39,8 @@ body.homepage #header h1 {
     .references a:hover, .special p a:hover {
         border-bottom-color: transparent;
     }
+
+li.not-numbered {
+    list-style: none;
+    margin-left: -1.5em;
+}
