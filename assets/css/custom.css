@@ -1,15 +1,18 @@
 @media screen and (prefers-color-scheme: dark) {
     .wrapper {
-        background-color: #5b5b5b;
+        background-color: #212124;
         color: #fff;
     }
     h1, h2, h3, h4, h5, h6, strong {
         color: #fff;
     }
+    html body {
+        background-color: #212124 !important;
+    }
 }
 
 .dark .wrapper {
-    background-color: #5b5b5b;
+    background-color: #212124;
     color: #fff;
 }
 .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6, .dark strong {
@@ -18,6 +21,10 @@
 
 body.homepage #header h1 {
     font-size: 3.5em;
+}
+
+body {
+    background-color: #fff !important;
 }
 
 #header .button {
@@ -31,16 +38,36 @@ body.homepage #header h1 {
     padding-left: 1em;
 }
 
-    .references a, .special p a {
+    .references a, .special p a, a.reference {
         border-bottom-color: #ef8376;
         color: #ef8376;
     }
 
-    .references a:hover, .special p a:hover {
-        border-bottom-color: transparent;
+    .references a:hover, .special p a:hover, sup a {
+        border-bottom-color: transparent !important;
     }
+
+p.indent {
+    padding-left: 1em;
+}
+
+ol.thesis {
+    margin-bottom: 1em !important;
+}
 
 li.not-numbered {
     list-style: none;
     margin-left: -1.5em;
+}
+
+.hidden {
+    display: none;
+}
+
+.small {
+    font-variant: small-caps;
+}
+
+article#main {
+    padding-bottom: 4em;
 }

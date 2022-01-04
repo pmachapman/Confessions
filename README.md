@@ -1,4 +1,6 @@
-# Creeds and Confessions Mobile App
+# Creeds and Confessions Website
+
+Free for personal and commercial use under the CCA 4.0 license. See [LICENSE.md](LICENSE.md).
 
 ## Helios by HTML5 UP
 html5up.net | @ajlkn

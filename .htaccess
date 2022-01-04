@@ -1,0 +1,7 @@
+# SEO Redirects
+RewriteEngine On
+RewriteRule ^m/ / [R=301,L]
+RewriteRule ^mobile/ / [R=301,L]
+RewriteCond %{HTTP_HOST} ^www\.creedsandconfessions\.org [NC]
+RewriteCond %{HTTPS} on
+RewriteRule ^(.*)$ https://creedsandconfessions\.org%{REQUEST_URI}

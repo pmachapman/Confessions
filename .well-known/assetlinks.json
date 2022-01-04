@@ -1,0 +1,12 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "nz.co.conglomo.confessions",
+    "sha256_cert_fingerprints":
+    [
+      "01:B5:1D:7D:26:96:E0:54:40:E6:28:E4:21:B5:D0:5A:2C:62:25:99:1E:7E:E3:B2:2A:2E:7D:C8:14:C9:63:7C",
+      "71:86:14:6F:63:2D:C7:FF:92:37:AF:B0:36:BB:8B:BE:6E:ED:E0:65:97:08:3F:04:54:76:ED:4D:C7:5A:3A:50"
+    ]
+  }
+}]
