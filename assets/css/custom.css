@@ -71,3 +71,7 @@ li.not-numbered {
 article#main {
     padding-bottom: 4em;
 }
+
+ol[type="i"].upper {
+    list-style-type: upper-roman !important;
+}

@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: creedsandconfessions.org
+Token: 33f34879f2cb34c1f190c160d76ca1513abb8b3627770ac074a7ff76586eaffb
