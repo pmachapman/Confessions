@@ -1,10 +1,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://creedsandconfessions.org/anglican-catechism.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
 		<loc>https://creedsandconfessions.org/apostles-creed.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
 		<loc>https://creedsandconfessions.org/athanasian-creed.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://creedsandconfessions.org/auburn-declaration.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
@@ -24,11 +32,19 @@
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
+		<loc>https://creedsandconfessions.org/chicago-lambeth-quadrilateral.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
 		<loc>https://creedsandconfessions.org/chicago-statement.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
 		<loc>https://creedsandconfessions.org/danvers-statement.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://creedsandconfessions.org/episcopalian-catechism.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
@@ -41,6 +57,10 @@
 	</url>
 	<url>
 		<loc>https://creedsandconfessions.org/</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://creedsandconfessions.org/lambeth-articles.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
