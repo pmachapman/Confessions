@@ -1,0 +1,24 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "GZHMBG95Y7.nz.co.conglomo.confessions" ],
+             "components": [
+               {
+                  "#": "no_universal_links",
+                  "exclude": true,
+                  "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
+               },
+               {
+                  "/": "/",
+                  "comment": "Matches the home page"
+               },
+               {
+                  "/": "/*.html",
+                  "comment": "Matches any HTML file"
+               }
+             ]
+           }
+       ]
+   }
+}
