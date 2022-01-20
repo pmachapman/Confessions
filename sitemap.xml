@@ -16,6 +16,10 @@
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
+		<loc>https://creedsandconfessions.org/augsburg-confession.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
 		<loc>https://creedsandconfessions.org/barmen-declaration.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
@@ -68,6 +72,10 @@
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
+		<loc>https://creedsandconfessions.org/luthers-small-catechism.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
 		<loc>https://creedsandconfessions.org/nashville-statement.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
@@ -85,6 +93,10 @@
 	</url>
 	<url>
 		<loc>https://creedsandconfessions.org/savoy-declaration.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://creedsandconfessions.org/saxon-visitation-articles.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>

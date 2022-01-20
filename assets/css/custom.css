@@ -60,6 +60,10 @@ li.not-numbered {
     margin-left: -1.5em;
 }
 
+li.not-numbered ol li {
+    margin-left:1.5em;
+}
+
 .hidden {
     display: none;
 }
