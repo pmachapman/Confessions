@@ -78,4 +78,13 @@ article#main {
 
 ol[type="i"].upper {
     list-style-type: upper-roman !important;
+    margin-left: 1.5em !important;
+}
+
+blockquote {
+    margin-bottom: 1em;
+}
+
+blockquote p:last-child {
+    margin-bottom: 0;
 }
