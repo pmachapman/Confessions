@@ -28,6 +28,10 @@
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
+		<loc>https://creedsandconfessions.org/cambridge-declaration.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
 		<loc>https://creedsandconfessions.org/canons-of-dort.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
@@ -68,6 +72,10 @@
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
+		<loc>https://creedsandconfessions.org/keachs-catechism.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
 		<loc>https://creedsandconfessions.org/lambeth-articles.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
@@ -84,7 +92,15 @@
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
+		<loc>https://creedsandconfessions.org/new-hampshire-confession.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
 		<loc>https://creedsandconfessions.org/nicene-creed.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://creedsandconfessions.org/philadelphia-confession.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
@@ -109,6 +125,10 @@
 	</url>
 	<url>
 		<loc>https://creedsandconfessions.org/thirty-nine-articles.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://creedsandconfessions.org/waldensian-confession.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>

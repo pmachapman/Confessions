@@ -25,6 +25,7 @@ body.homepage #header h1 {
 
 body {
     background-color: #fff !important;
+    -webkit-text-size-adjust: auto !important;
 }
 
 #header .button {
@@ -87,4 +88,19 @@ blockquote {
 
 blockquote p:last-child {
     margin-bottom: 0;
+}
+
+#nav > ul > li {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+#nav > ul > li:last-child {
+    margin-right: 0.5em !important;
+}
+
+@media screen and (max-width: 1280px) {
+    #nav > ul > li {
+        margin-top: -4px !important;
+    }
 }
