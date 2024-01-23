@@ -28,6 +28,10 @@
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
+		<loc>https://creedsandconfessions.org/berne-theses.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
 		<loc>https://creedsandconfessions.org/cambridge-declaration.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
@@ -61,6 +65,10 @@
 	</url>
 	<url>
 		<loc>https://creedsandconfessions.org/guanabara-confession.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://creedsandconfessions.org/first-helvetic-confession.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
@@ -117,6 +125,10 @@
 	</url>
 	<url>
 		<loc>https://creedsandconfessions.org/saxon-visitation-articles.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://creedsandconfessions.org/second-helvetic-confession.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
