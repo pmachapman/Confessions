@@ -39,12 +39,12 @@ body {
     padding-left: 1em;
 }
 
-    .references a, .special p a, a.reference {
+    .references a, .special p a, .special ol.articles li a, a.reference {
         border-bottom-color: #ef8376;
         color: #ef8376;
     }
 
-    .references a:hover, .special p a:hover, sup a {
+    .references a:hover, .special p a:hover, .special ol.articles li a:hover, sup a {
         border-bottom-color: transparent !important;
     }
 
@@ -92,6 +92,32 @@ article#main {
 ol[type="i"].upper {
     list-style-type: upper-roman !important;
     margin-left: 1.5em !important;
+}
+
+ol[type="1"].decimal {
+    counter-reset: item;
+    list-style-type: none;
+    padding-left: 3em;
+}
+
+ol[type="1"].decimal li {
+    display: block;
+    position: relative;
+}
+
+ol[type="1"].decimal li:before {
+    content: counters(item, ".") ".";
+    counter-increment: item;
+    position: absolute;
+    left: -3em;
+    width: 2.5em;
+    padding-right: 0.5em;
+    text-align: right;
+    box-sizing: border-box;
+}
+
+ol[type="1"].decimal li ol[type="1"].decimal {
+    margin-left: 1em !important;
 }
 
 blockquote {
