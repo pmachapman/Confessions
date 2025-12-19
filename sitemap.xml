@@ -72,15 +72,19 @@
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
-		<loc>https://creedsandconfessions.org/guanabara-confession.html</loc>
-		<changefreq>weekly</changefreq>
-	</url>
-	<url>
 		<loc>https://creedsandconfessions.org/first-helvetic-confession.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
+		<loc>https://creedsandconfessions.org/french-confession.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
 		<loc>https://creedsandconfessions.org/heidelberg-catechism.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://creedsandconfessions.org/guanabara-confession.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
