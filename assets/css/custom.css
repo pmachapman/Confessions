@@ -39,12 +39,12 @@ body {
     padding-left: 1em;
 }
 
-    .references a, .special p a, .special ol.articles li a, a.reference {
+    .references a, .special p a, .special ol.articles li a, a.reference, li[id] a {
         border-bottom-color: #ef8376;
         color: #ef8376;
     }
 
-    .references a:hover, .special p a:hover, .special ol.articles li a:hover, sup a {
+    .references a:hover, .special p a:hover, .special ol.articles li a:hover, li[id] a:hover, sup a {
         border-bottom-color: transparent !important;
     }
 
