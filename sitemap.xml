@@ -1,5 +1,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>https://creedsandconfessions.org/</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
 		<loc>https://creedsandconfessions.org/africa-statement.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
@@ -64,6 +68,10 @@
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
+		<loc>https://creedsandconfessions.org/confession-of-the-evangelical-free-church-of-geneva.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
 		<loc>https://creedsandconfessions.org/danvers-statement.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
@@ -88,7 +96,7 @@
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
-		<loc>https://creedsandconfessions.org/</loc>
+		<loc>https://creedsandconfessions.org/jerusalem-declaration.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
@@ -145,6 +153,14 @@
 	</url>
 	<url>
 		<loc>https://creedsandconfessions.org/second-helvetic-confession.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://creedsandconfessions.org/sixty-seven-articles.html</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://creedsandconfessions.org/support.html</loc>
 		<changefreq>weekly</changefreq>
 	</url>
 	<url>
